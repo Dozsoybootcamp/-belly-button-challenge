@@ -30,6 +30,6 @@ Git: For version control.
 Deployment
 The project is deployed using GitHub Pages and can be accessed at the following URL:
 
-View the Live App
+View the Live App http://127.0.0.1:5500/bellybutton/index.html
 
 ![Image 8-12-24 at 12 35 AM](https://github.com/user-attachments/assets/d088c3d4-216f-4f7c-9534-cf9afe394ac2)
